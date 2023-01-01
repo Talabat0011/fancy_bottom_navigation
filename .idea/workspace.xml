@@ -24,10 +24,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d49a77d2-32e0-436a-826a-b36d18856957" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+    <list default="true" id="d49a77d2-32e0-436a-826a-b36d18856957" name="Default" comment="solving overflow property problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fancy_bottom_navigation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fancy_bottom_navigation.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/fancy_bottom_navigation.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/fancy_bottom_navigation.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +56,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -139,6 +137,14 @@
       <option name="presentableId" value="Default" />
       <updated>1546626504166</updated>
     </task>
+    <task id="LOCAL-00001" summary="solving overflow property problem">
+      <created>1672577754239</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672577754239</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,7 +160,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solving overflow property problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solving overflow property problem" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="240" y="56" key="#Notifications" timestamp="1672577885509">
+      <screen x="0" y="25" width="1280" height="716" />
+    </state>
+    <state x="240" y="56" key="#Notifications/0.25.1280.716@0.25.1280.716" timestamp="1672577885509" />
     <state x="104" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1672577585129">
       <screen x="0" y="25" width="1280" height="716" />
     </state>
@@ -163,10 +177,14 @@
       <screen x="0" y="25" width="1280" height="716" />
     </state>
     <state x="178" y="25" key="CommitChangelistDialog2/0.25.1280.716@0.25.1280.716" timestamp="1672577752707" />
-    <state x="141" y="25" key="SettingsEditor" timestamp="1672577581734">
+    <state x="141" y="25" key="SettingsEditor" timestamp="1672578074593">
       <screen x="0" y="25" width="1280" height="716" />
     </state>
-    <state x="141" y="25" key="SettingsEditor/0.25.1280.716@0.25.1280.716" timestamp="1672577581734" />
+    <state x="141" y="25" key="SettingsEditor/0.25.1280.716@0.25.1280.716" timestamp="1672578074593" />
+    <state x="240" y="131" key="Vcs.Push.Dialog.v2" timestamp="1672577758099">
+      <screen x="0" y="25" width="1280" height="716" />
+    </state>
+    <state x="240" y="131" key="Vcs.Push.Dialog.v2/0.25.1280.716@0.25.1280.716" timestamp="1672577758099" />
     <state x="293" y="150" width="694" height="488" key="find.popup" timestamp="1672577708540">
       <screen x="0" y="25" width="1280" height="716" />
     </state>
