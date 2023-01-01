@@ -25,7 +25,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d49a77d2-32e0-436a-826a-b36d18856957" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fancy_bottom_navigation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fancy_bottom_navigation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fancy_bottom_navigation.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/fancy_bottom_navigation.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,30 +42,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>color</find>
-      <find>circleColor</find>
-      <find>activeIconColor</find>
-      <find>barBackgroundColor</find>
-      <find>textColor</find>
-      <find>inactiveIconColor</find>
-      <find>activeIcon</find>
-      <find>alpha</find>
-      <find>iconYAlign</find>
-      <find>ALPHA_ON</find>
-      <find>overla</find>
-      <find>overl</find>
-      <find>_overlayState</find>
-      <find>anim</find>
-      <find>setSta</find>
-      <find>setSt</find>
-      <find>maintainState</find>
-      <find>_circleAlignX</find>
-      <find>Create O</find>
-      <find>currentIndex</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -73,12 +52,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="scaffold&#9;null&#9;null&#10;floatina&#9;null&#9;null&#10;scaff&#9;null&#9;null" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -166,33 +146,31 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1750" height="303" key="GridCell.Tab.0.bottom" timestamp="1615896135227">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state x="104" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1672577585129">
+      <screen x="0" y="25" width="1280" height="716" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1615896135227" />
-    <state width="1750" height="303" key="GridCell.Tab.0.center" timestamp="1615896135226">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state x="104" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1280.716@0.25.1280.716" timestamp="1672577585129" />
+    <state x="178" y="25" key="CommitChangelistDialog2" timestamp="1672577752707">
+      <screen x="0" y="25" width="1280" height="716" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1615896135226" />
-    <state width="1750" height="303" key="GridCell.Tab.0.left" timestamp="1615896135226">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state x="178" y="25" key="CommitChangelistDialog2/0.25.1280.716@0.25.1280.716" timestamp="1672577752707" />
+    <state x="141" y="25" key="SettingsEditor" timestamp="1672577581734">
+      <screen x="0" y="25" width="1280" height="716" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1615896135226" />
-    <state width="1750" height="303" key="GridCell.Tab.0.right" timestamp="1615896135227">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state x="141" y="25" key="SettingsEditor/0.25.1280.716@0.25.1280.716" timestamp="1672577581734" />
+    <state x="293" y="150" width="694" height="488" key="find.popup" timestamp="1672577708540">
+      <screen x="0" y="25" width="1280" height="716" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1615896135227" />
-    <state x="397" y="210" key="SettingsEditor" timestamp="1615895083304">
-      <screen x="0" y="23" width="1792" height="1097" />
-    </state>
-    <state x="397" y="210" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1615895083304" />
+    <state x="293" y="150" width="694" height="488" key="find.popup/0.25.1280.716@0.25.1280.716" timestamp="1672577708540" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -201,11 +179,6 @@
           <url>file://$PROJECT_DIR$/test/fancy_widget_tests.dart</url>
           <line>29</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="Dart">
-          <url>file://$PROJECT_DIR$/lib/fancy_bottom_navigation.dart</url>
-          <line>103</line>
-          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="Dart">
           <url>file://$PROJECT_DIR$/lib/fancy_bottom_navigation.dart</url>
